@@ -191,4 +191,4 @@ Anshuman Tripathi
 
 B.Tech Computer Science
 
-Google Earth Engine • Remote Sensing • Machine Learning • GIS
+Python • Google Earth Engine • Remote Sensing • Machine Learning • GIS
