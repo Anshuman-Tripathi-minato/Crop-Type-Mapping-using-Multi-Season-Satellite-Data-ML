@@ -1,0 +1,9 @@
+Property,Value
+Driver,GTiff
+Width,8118
+Height,6122
+Bands,6
+CRS,EPSG:4326
+Resolution,"(8.983152841195215e-05, 8.983152841195215e-05)"
+Data Type,float64
+NoData,

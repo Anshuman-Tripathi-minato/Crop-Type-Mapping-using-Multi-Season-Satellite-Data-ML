@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter automatic checkpoints
+.ipynb_checkpoints/
+
+# Large document that stays local
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
